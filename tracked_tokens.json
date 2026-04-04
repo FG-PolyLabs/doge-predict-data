@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "ticker": "bnb",
+    "coingecko_id": "binancecoin",
+    "name": "BNB",
+    "active": true,
+    "added_date": "2026-04-04",
+    "notes": ""
+  },
+  {
+    "ticker": "btc",
+    "coingecko_id": "bitcoin",
+    "name": "Bitcoin",
+    "active": true,
+    "added_date": "2026-04-04",
+    "notes": ""
+  },
+  {
+    "ticker": "doge",
+    "coingecko_id": "dogecoin",
+    "name": "Dogecoin",
+    "active": true,
+    "added_date": "2026-04-04",
+    "notes": ""
+  },
+  {
+    "ticker": "eth",
+    "coingecko_id": "ethereum",
+    "name": "Ethereum",
+    "active": true,
+    "added_date": "2026-04-04",
+    "notes": ""
+  },
+  {
+    "ticker": "hype",
+    "coingecko_id": "hyperliquid",
+    "name": "Hyperliquid",
+    "active": true,
+    "added_date": "2026-04-04",
+    "notes": ""
+  },
+  {
+    "ticker": "sol",
+    "coingecko_id": "solana",
+    "name": "Solana",
+    "active": true,
+    "added_date": "2026-04-04",
+    "notes": ""
+  },
+  {
+    "ticker": "xrp",
+    "coingecko_id": "ripple",
+    "name": "XRP",
+    "active": true,
+    "added_date": "2026-04-04",
+    "notes": ""
+  }
+]
