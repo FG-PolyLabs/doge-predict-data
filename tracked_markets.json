@@ -15,6 +15,21 @@
     "outcome_no_price": 0.0055
   },
   {
+    "market_id": "1846005",
+    "slug": "bitcoin-up-or-down-on-april-5-2026",
+    "title": "Bitcoin Up or Down on April 5?",
+    "category": "crypto_daily",
+    "platform": "polymarket",
+    "yes_token_id": "21613765409440485553180127241849666652390641888880097162317422308494542427893",
+    "no_token_id": "79280506073276957574929762223550745298129661329072873560418275902179123205421",
+    "active": true,
+    "end_date": "2026-04-05T16:00:00Z",
+    "added_date": "2026-04-04",
+    "notes": "",
+    "outcome_yes_price": 0.47,
+    "outcome_no_price": 0.53
+  },
+  {
     "market_id": "1831513",
     "slug": "bnb-up-or-down-on-april-4-2026",
     "title": "BNB Up or Down on April 4?",
@@ -28,6 +43,21 @@
     "notes": "",
     "outcome_yes_price": 0.695,
     "outcome_no_price": 0.305
+  },
+  {
+    "market_id": "1846150",
+    "slug": "bnb-up-or-down-on-april-5-2026",
+    "title": "BNB Up or Down on April 5?",
+    "category": "crypto_daily",
+    "platform": "polymarket",
+    "yes_token_id": "84552927823568515051902197374226603439667618633876389095249772680714039345517",
+    "no_token_id": "104080243940892784030893597056887750421030336267355562767465019927599881271376",
+    "active": true,
+    "end_date": "2026-04-05T16:00:00Z",
+    "added_date": "2026-04-04",
+    "notes": "",
+    "outcome_yes_price": 0.5,
+    "outcome_no_price": 0.5
   },
   {
     "market_id": "1831486",
@@ -45,6 +75,21 @@
     "outcome_no_price": 0.49
   },
   {
+    "market_id": "1846123",
+    "slug": "dogecoin-up-or-down-on-april-5-2026",
+    "title": "Dogecoin Up or Down on April 5?",
+    "category": "crypto_daily",
+    "platform": "polymarket",
+    "yes_token_id": "80205878635018439079093662595204251688592722061065874131574862042150674292667",
+    "no_token_id": "64863982847755903887900584953840198026278023499847095197530236621321468728556",
+    "active": true,
+    "end_date": "2026-04-05T16:00:00Z",
+    "added_date": "2026-04-04",
+    "notes": "",
+    "outcome_yes_price": 0.5,
+    "outcome_no_price": 0.5
+  },
+  {
     "market_id": "1831428",
     "slug": "ethereum-up-or-down-on-april-4-2026",
     "title": "Ethereum Up or Down on April 4?",
@@ -58,6 +103,21 @@
     "notes": "",
     "outcome_yes_price": 0.805,
     "outcome_no_price": 0.195
+  },
+  {
+    "market_id": "1846038",
+    "slug": "ethereum-up-or-down-on-april-5-2026",
+    "title": "Ethereum Up or Down on April 5?",
+    "category": "crypto_daily",
+    "platform": "polymarket",
+    "yes_token_id": "45886459201591201270151840277430054862500027900847976870419723422327757875416",
+    "no_token_id": "27093162419022379406957040714428464115784362266282186335267466453534497625100",
+    "active": true,
+    "end_date": "2026-04-05T16:00:00Z",
+    "added_date": "2026-04-04",
+    "notes": "",
+    "outcome_yes_price": 0.6,
+    "outcome_no_price": 0.4
   },
   {
     "market_id": "1831510",
@@ -75,6 +135,21 @@
     "outcome_no_price": 0.42
   },
   {
+    "market_id": "1846148",
+    "slug": "hype-up-or-down-on-april-5-2026",
+    "title": "HYPE Up or Down on April 5?",
+    "category": "crypto_daily",
+    "platform": "polymarket",
+    "yes_token_id": "417808334008120834247590817681110755486330334854698129892580344646592050671",
+    "no_token_id": "43306739298238045470847974035811799930671776700940763334198497824705611706488",
+    "active": true,
+    "end_date": "2026-04-05T16:00:00Z",
+    "added_date": "2026-04-04",
+    "notes": "",
+    "outcome_yes_price": 0.615,
+    "outcome_no_price": 0.385
+  },
+  {
     "market_id": "1831456",
     "slug": "solana-up-or-down-on-april-4-2026",
     "title": "Solana Up or Down on April 4?",
@@ -90,6 +165,21 @@
     "outcome_no_price": 0.0345
   },
   {
+    "market_id": "1846067",
+    "slug": "solana-up-or-down-on-april-5-2026",
+    "title": "Solana Up or Down on April 5?",
+    "category": "crypto_daily",
+    "platform": "polymarket",
+    "yes_token_id": "60974836586592787690008435080349073960059322925125352331883686094568577888728",
+    "no_token_id": "91772573652485794456530590912461036209607992274426411731420892386557120518719",
+    "active": true,
+    "end_date": "2026-04-05T16:00:00Z",
+    "added_date": "2026-04-04",
+    "notes": "",
+    "outcome_yes_price": 0.5,
+    "outcome_no_price": 0.5
+  },
+  {
     "market_id": "1831458",
     "slug": "xrp-up-or-down-on-april-4-2026",
     "title": "XRP Up or Down on April 4?",
@@ -103,5 +193,20 @@
     "notes": "",
     "outcome_yes_price": 0.363,
     "outcome_no_price": 0.637
+  },
+  {
+    "market_id": "1846099",
+    "slug": "xrp-up-or-down-on-april-5-2026",
+    "title": "XRP Up or Down on April 5?",
+    "category": "crypto_daily",
+    "platform": "polymarket",
+    "yes_token_id": "55295383506150508096475778741055088644722871960512645485367901604976537096918",
+    "no_token_id": "24224831863652507597184632159937671471017797140815090961572616923193643007807",
+    "active": true,
+    "end_date": "2026-04-05T16:00:00Z",
+    "added_date": "2026-04-04",
+    "notes": "",
+    "outcome_yes_price": 0.5,
+    "outcome_no_price": 0.5
   }
 ]
