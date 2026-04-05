@@ -21015,6 +21015,42 @@
     "volume_24h": 490040999.5429975
   },
   {
+    "ticker": "bnb",
+    "coingecko_id": "binancecoin",
+    "date": "2026-04-05",
+    "timestamp": "2026-04-05 09:15:00+00",
+    "price_usd": 592.5924751512827,
+    "market_cap": 80832726216.93681,
+    "volume_24h": 482696792.83374226
+  },
+  {
+    "ticker": "bnb",
+    "coingecko_id": "binancecoin",
+    "date": "2026-04-05",
+    "timestamp": "2026-04-05 09:30:00+00",
+    "price_usd": 593.019396346664,
+    "market_cap": 80900931183.29274,
+    "volume_24h": 489384982.2323547
+  },
+  {
+    "ticker": "bnb",
+    "coingecko_id": "binancecoin",
+    "date": "2026-04-05",
+    "timestamp": "2026-04-05 09:45:00+00",
+    "price_usd": 593.3363655939407,
+    "market_cap": 80921538901.74022,
+    "volume_24h": 493370690.9831765
+  },
+  {
+    "ticker": "bnb",
+    "coingecko_id": "binancecoin",
+    "date": "2026-04-05",
+    "timestamp": "2026-04-05 10:00:00+00",
+    "price_usd": 593.3508036542006,
+    "market_cap": 80894497181.36551,
+    "volume_24h": 498749495.1383794
+  },
+  {
     "ticker": "btc",
     "coingecko_id": "bitcoin",
     "date": "2026-01-05",
@@ -42028,6 +42064,42 @@
     "price_usd": 66870.41898995316,
     "market_cap": 1338951211835.392,
     "volume_24h": 16557980380.190977
+  },
+  {
+    "ticker": "btc",
+    "coingecko_id": "bitcoin",
+    "date": "2026-04-05",
+    "timestamp": "2026-04-05 09:15:00+00",
+    "price_usd": 66889.60689233286,
+    "market_cap": 1338969958899.181,
+    "volume_24h": 19349929593.977657
+  },
+  {
+    "ticker": "btc",
+    "coingecko_id": "bitcoin",
+    "date": "2026-04-05",
+    "timestamp": "2026-04-05 09:30:00+00",
+    "price_usd": 66974.69132532115,
+    "market_cap": 1340185729001.5198,
+    "volume_24h": 16400615030.973305
+  },
+  {
+    "ticker": "btc",
+    "coingecko_id": "bitcoin",
+    "date": "2026-04-05",
+    "timestamp": "2026-04-05 09:45:00+00",
+    "price_usd": 66954.22878944523,
+    "market_cap": 1340912352117.5989,
+    "volume_24h": 16410749041.369377
+  },
+  {
+    "ticker": "btc",
+    "coingecko_id": "bitcoin",
+    "date": "2026-04-05",
+    "timestamp": "2026-04-05 10:00:00+00",
+    "price_usd": 67014.7991676094,
+    "market_cap": 1341020286579.4937,
+    "volume_24h": 16681548706.585999
   },
   {
     "ticker": "doge",
@@ -63045,6 +63117,42 @@
     "volume_24h": 547410099.7378286
   },
   {
+    "ticker": "doge",
+    "coingecko_id": "dogecoin",
+    "date": "2026-04-05",
+    "timestamp": "2026-04-05 09:15:00+00",
+    "price_usd": 0.0903036687313108,
+    "market_cap": 13865325444.761747,
+    "volume_24h": 553183901.5874183
+  },
+  {
+    "ticker": "doge",
+    "coingecko_id": "dogecoin",
+    "date": "2026-04-05",
+    "timestamp": "2026-04-05 09:30:00+00",
+    "price_usd": 0.09026873676935811,
+    "market_cap": 13881417067.027224,
+    "volume_24h": 553653992.5691344
+  },
+  {
+    "ticker": "doge",
+    "coingecko_id": "dogecoin",
+    "date": "2026-04-05",
+    "timestamp": "2026-04-05 09:45:00+00",
+    "price_usd": 0.09031701482097294,
+    "market_cap": 13891843055.153543,
+    "volume_24h": 563701839.2845843
+  },
+  {
+    "ticker": "doge",
+    "coingecko_id": "dogecoin",
+    "date": "2026-04-05",
+    "timestamp": "2026-04-05 10:00:00+00",
+    "price_usd": 0.0903879367015073,
+    "market_cap": 13890343368.43071,
+    "volume_24h": 567399605.3493254
+  },
+  {
     "ticker": "eth",
     "coingecko_id": "ethereum",
     "date": "2026-01-05",
@@ -84058,6 +84166,42 @@
     "price_usd": 2037.215738470261,
     "market_cap": 246067274278.77982,
     "volume_24h": 6793870646.815806
+  },
+  {
+    "ticker": "eth",
+    "coingecko_id": "ethereum",
+    "date": "2026-04-05",
+    "timestamp": "2026-04-05 09:15:00+00",
+    "price_usd": 2039.2001453023693,
+    "market_cap": 246191537599.7685,
+    "volume_24h": 6809603555.769137
+  },
+  {
+    "ticker": "eth",
+    "coingecko_id": "ethereum",
+    "date": "2026-04-05",
+    "timestamp": "2026-04-05 09:30:00+00",
+    "price_usd": 2042.4231126001575,
+    "market_cap": 246552525942.49542,
+    "volume_24h": 5769451765.812628
+  },
+  {
+    "ticker": "eth",
+    "coingecko_id": "ethereum",
+    "date": "2026-04-05",
+    "timestamp": "2026-04-05 09:45:00+00",
+    "price_usd": 2043.3599638353764,
+    "market_cap": 246787282384.60962,
+    "volume_24h": 6230900434.501043
+  },
+  {
+    "ticker": "eth",
+    "coingecko_id": "ethereum",
+    "date": "2026-04-05",
+    "timestamp": "2026-04-05 10:00:00+00",
+    "price_usd": 2044.9956320984188,
+    "market_cap": 246724480182.97205,
+    "volume_24h": 6848258572.844635
   },
   {
     "ticker": "hype",
@@ -105075,6 +105219,42 @@
     "volume_24h": 100382981.41271256
   },
   {
+    "ticker": "hype",
+    "coingecko_id": "hyperliquid",
+    "date": "2026-04-05",
+    "timestamp": "2026-04-05 09:15:00+00",
+    "price_usd": 35.781439962838526,
+    "market_cap": 8519698090.701303,
+    "volume_24h": 100806260.00819793
+  },
+  {
+    "ticker": "hype",
+    "coingecko_id": "hyperliquid",
+    "date": "2026-04-05",
+    "timestamp": "2026-04-05 09:30:00+00",
+    "price_usd": 35.759339086955215,
+    "market_cap": 8528822130.868746,
+    "volume_24h": 101102276.60980609
+  },
+  {
+    "ticker": "hype",
+    "coingecko_id": "hyperliquid",
+    "date": "2026-04-05",
+    "timestamp": "2026-04-05 09:45:00+00",
+    "price_usd": 35.74648677576379,
+    "market_cap": 8523447783.251356,
+    "volume_24h": 101223873.1810615
+  },
+  {
+    "ticker": "hype",
+    "coingecko_id": "hyperliquid",
+    "date": "2026-04-05",
+    "timestamp": "2026-04-05 10:00:00+00",
+    "price_usd": 35.771088765323825,
+    "market_cap": 8533032586.397577,
+    "volume_24h": 101798579.07447852
+  },
+  {
     "ticker": "sol",
     "coingecko_id": "solana",
     "date": "2026-01-05",
@@ -126090,6 +126270,42 @@
     "volume_24h": 1784005108.9607599
   },
   {
+    "ticker": "sol",
+    "coingecko_id": "solana",
+    "date": "2026-04-05",
+    "timestamp": "2026-04-05 09:15:00+00",
+    "price_usd": 79.71137105159227,
+    "market_cap": 45661464644.29969,
+    "volume_24h": 1786298155.2784686
+  },
+  {
+    "ticker": "sol",
+    "coingecko_id": "solana",
+    "date": "2026-04-05",
+    "timestamp": "2026-04-05 09:30:00+00",
+    "price_usd": 79.72638323360219,
+    "market_cap": 45709309976.33561,
+    "volume_24h": 1784950234.2113533
+  },
+  {
+    "ticker": "sol",
+    "coingecko_id": "solana",
+    "date": "2026-04-05",
+    "timestamp": "2026-04-05 09:45:00+00",
+    "price_usd": 79.74224165037288,
+    "market_cap": 45717514810.94149,
+    "volume_24h": 1779826394.7903225
+  },
+  {
+    "ticker": "sol",
+    "coingecko_id": "solana",
+    "date": "2026-04-05",
+    "timestamp": "2026-04-05 10:00:00+00",
+    "price_usd": 79.82722235459705,
+    "market_cap": 45732085841.92737,
+    "volume_24h": 1768444796.5627537
+  },
+  {
     "ticker": "xrp",
     "coingecko_id": "ripple",
     "date": "2026-01-05",
@@ -147094,5 +147310,41 @@
     "price_usd": 1.2976028848351728,
     "market_cap": 79709639164.41402,
     "volume_24h": 1049999420.7102947
+  },
+  {
+    "ticker": "xrp",
+    "coingecko_id": "ripple",
+    "date": "2026-04-05",
+    "timestamp": "2026-04-05 09:15:00+00",
+    "price_usd": 1.299011383364329,
+    "market_cap": 79788814347.02977,
+    "volume_24h": 1047872008.2346249
+  },
+  {
+    "ticker": "xrp",
+    "coingecko_id": "ripple",
+    "date": "2026-04-05",
+    "timestamp": "2026-04-05 09:30:00+00",
+    "price_usd": 1.3002077110340124,
+    "market_cap": 79896335474.95728,
+    "volume_24h": 1054168845.8291724
+  },
+  {
+    "ticker": "xrp",
+    "coingecko_id": "ripple",
+    "date": "2026-04-05",
+    "timestamp": "2026-04-05 09:45:00+00",
+    "price_usd": 1.300305245168455,
+    "market_cap": 79864510632.74092,
+    "volume_24h": 1047148915.6509038
+  },
+  {
+    "ticker": "xrp",
+    "coingecko_id": "ripple",
+    "date": "2026-04-05",
+    "timestamp": "2026-04-05 10:00:00+00",
+    "price_usd": 1.300928995431778,
+    "market_cap": 79868832387.16098,
+    "volume_24h": 1051445728.8060431
   }
 ]
