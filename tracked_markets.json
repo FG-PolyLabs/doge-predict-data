@@ -19136,8 +19136,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.495,
-    "outcome_no_price": 0.505
+    "outcome_yes_price": 0.415,
+    "outcome_no_price": 0.585
   },
   {
     "market_id": "1574227",
@@ -20336,8 +20336,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.205,
-    "outcome_no_price": 0.795
+    "outcome_yes_price": 0.165,
+    "outcome_no_price": 0.835
   },
   {
     "market_id": "1576232",
@@ -20726,8 +20726,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.38,
-    "outcome_no_price": 0.62
+    "outcome_yes_price": 0.385,
+    "outcome_no_price": 0.615
   },
   {
     "market_id": "1576327",
@@ -21116,8 +21116,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.27,
-    "outcome_no_price": 0.73
+    "outcome_yes_price": 0.19,
+    "outcome_no_price": 0.81
   },
   {
     "market_id": "1576265",
@@ -21506,8 +21506,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.11,
-    "outcome_no_price": 0.89
+    "outcome_yes_price": 0.115,
+    "outcome_no_price": 0.885
   },
   {
     "market_id": "1576292",
@@ -21776,8 +21776,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9985,
-    "outcome_no_price": 0.0015
+    "outcome_yes_price": 0.0095,
+    "outcome_no_price": 0.9905
   },
   {
     "market_id": "1846074",
@@ -21791,8 +21791,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9985,
-    "outcome_no_price": 0.0015
+    "outcome_yes_price": 0.0095,
+    "outcome_no_price": 0.9905
   },
   {
     "market_id": "1846068",
@@ -21806,8 +21806,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9985,
-    "outcome_no_price": 0.0015
+    "outcome_yes_price": 0.0095,
+    "outcome_no_price": 0.9905
   },
   {
     "market_id": "1846084",
@@ -21821,8 +21821,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9985,
-    "outcome_no_price": 0.0015
+    "outcome_yes_price": 0.0095,
+    "outcome_no_price": 0.9905
   },
   {
     "market_id": "1846082",
@@ -21836,8 +21836,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9985,
-    "outcome_no_price": 0.0015
+    "outcome_yes_price": 0.0095,
+    "outcome_no_price": 0.9905
   },
   {
     "market_id": "1846071",
@@ -21851,8 +21851,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9985,
-    "outcome_no_price": 0.0015
+    "outcome_yes_price": 0.0095,
+    "outcome_no_price": 0.9905
   },
   {
     "market_id": "1846080",
@@ -21866,8 +21866,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9985,
-    "outcome_no_price": 0.0015
+    "outcome_yes_price": 0.0095,
+    "outcome_no_price": 0.9905
   },
   {
     "market_id": "1846090",
@@ -21881,8 +21881,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9985,
-    "outcome_no_price": 0.0015
+    "outcome_yes_price": 0.0095,
+    "outcome_no_price": 0.9905
   },
   {
     "market_id": "1846087",
@@ -21896,8 +21896,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9985,
-    "outcome_no_price": 0.0015
+    "outcome_yes_price": 0.0095,
+    "outcome_no_price": 0.9905
   },
   {
     "market_id": "1846094",
@@ -21911,8 +21911,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9985,
-    "outcome_no_price": 0.0015
+    "outcome_yes_price": 0.0095,
+    "outcome_no_price": 0.9905
   },
   {
     "market_id": "1846077",
@@ -21926,8 +21926,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9985,
-    "outcome_no_price": 0.0015
+    "outcome_yes_price": 0.0095,
+    "outcome_no_price": 0.9905
   },
   {
     "market_id": "1862565",
@@ -21941,8 +21941,8 @@
     "end_date": "2026-04-11T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.995,
-    "outcome_no_price": 0.005
+    "outcome_yes_price": 0.9985,
+    "outcome_no_price": 0.0015
   },
   {
     "market_id": "1862550",
@@ -21956,8 +21956,8 @@
     "end_date": "2026-04-11T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.995,
-    "outcome_no_price": 0.005
+    "outcome_yes_price": 0.9985,
+    "outcome_no_price": 0.0015
   },
   {
     "market_id": "1862556",
@@ -21971,8 +21971,8 @@
     "end_date": "2026-04-11T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.995,
-    "outcome_no_price": 0.005
+    "outcome_yes_price": 0.9985,
+    "outcome_no_price": 0.0015
   },
   {
     "market_id": "1862543",
@@ -21986,8 +21986,8 @@
     "end_date": "2026-04-11T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.995,
-    "outcome_no_price": 0.005
+    "outcome_yes_price": 0.9985,
+    "outcome_no_price": 0.0015
   },
   {
     "market_id": "1862567",
@@ -22001,8 +22001,8 @@
     "end_date": "2026-04-11T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.995,
-    "outcome_no_price": 0.005
+    "outcome_yes_price": 0.9985,
+    "outcome_no_price": 0.0015
   },
   {
     "market_id": "1862547",
@@ -22016,8 +22016,8 @@
     "end_date": "2026-04-11T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.995,
-    "outcome_no_price": 0.005
+    "outcome_yes_price": 0.9985,
+    "outcome_no_price": 0.0015
   },
   {
     "market_id": "1862559",
@@ -22031,8 +22031,8 @@
     "end_date": "2026-04-11T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.995,
-    "outcome_no_price": 0.005
+    "outcome_yes_price": 0.9985,
+    "outcome_no_price": 0.0015
   },
   {
     "market_id": "1862561",
@@ -22046,8 +22046,8 @@
     "end_date": "2026-04-11T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.995,
-    "outcome_no_price": 0.005
+    "outcome_yes_price": 0.9985,
+    "outcome_no_price": 0.0015
   },
   {
     "market_id": "1862566",
@@ -22061,8 +22061,8 @@
     "end_date": "2026-04-11T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.995,
-    "outcome_no_price": 0.005
+    "outcome_yes_price": 0.9985,
+    "outcome_no_price": 0.0015
   },
   {
     "market_id": "1862553",
@@ -22076,8 +22076,8 @@
     "end_date": "2026-04-11T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.995,
-    "outcome_no_price": 0.005
+    "outcome_yes_price": 0.9985,
+    "outcome_no_price": 0.0015
   },
   {
     "market_id": "1862563",
@@ -22091,8 +22091,8 @@
     "end_date": "2026-04-11T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.995,
-    "outcome_no_price": 0.005
+    "outcome_yes_price": 0.9985,
+    "outcome_no_price": 0.0015
   },
   {
     "market_id": "1879402",
@@ -22106,8 +22106,8 @@
     "end_date": "2026-04-12T16:00:00Z",
     "added_date": "2026-04-05",
     "notes": "",
-    "outcome_yes_price": 0.9975,
-    "outcome_no_price": 0.0025
+    "outcome_yes_price": 0.385,
+    "outcome_no_price": 0.615
   },
   {
     "market_id": "1879422",
@@ -22121,8 +22121,8 @@
     "end_date": "2026-04-12T16:00:00Z",
     "added_date": "2026-04-05",
     "notes": "",
-    "outcome_yes_price": 0.9975,
-    "outcome_no_price": 0.0025
+    "outcome_yes_price": 0.385,
+    "outcome_no_price": 0.615
   },
   {
     "market_id": "1879426",
@@ -22136,8 +22136,8 @@
     "end_date": "2026-04-12T16:00:00Z",
     "added_date": "2026-04-05",
     "notes": "",
-    "outcome_yes_price": 0.9975,
-    "outcome_no_price": 0.0025
+    "outcome_yes_price": 0.385,
+    "outcome_no_price": 0.615
   },
   {
     "market_id": "1879414",
@@ -22151,8 +22151,8 @@
     "end_date": "2026-04-12T16:00:00Z",
     "added_date": "2026-04-05",
     "notes": "",
-    "outcome_yes_price": 0.9975,
-    "outcome_no_price": 0.0025
+    "outcome_yes_price": 0.385,
+    "outcome_no_price": 0.615
   },
   {
     "market_id": "1879405",
@@ -22166,8 +22166,8 @@
     "end_date": "2026-04-12T16:00:00Z",
     "added_date": "2026-04-05",
     "notes": "",
-    "outcome_yes_price": 0.9975,
-    "outcome_no_price": 0.0025
+    "outcome_yes_price": 0.385,
+    "outcome_no_price": 0.615
   },
   {
     "market_id": "1879407",
@@ -22181,8 +22181,8 @@
     "end_date": "2026-04-12T16:00:00Z",
     "added_date": "2026-04-05",
     "notes": "",
-    "outcome_yes_price": 0.9975,
-    "outcome_no_price": 0.0025
+    "outcome_yes_price": 0.385,
+    "outcome_no_price": 0.615
   },
   {
     "market_id": "1879418",
@@ -22196,8 +22196,8 @@
     "end_date": "2026-04-12T16:00:00Z",
     "added_date": "2026-04-05",
     "notes": "",
-    "outcome_yes_price": 0.9975,
-    "outcome_no_price": 0.0025
+    "outcome_yes_price": 0.385,
+    "outcome_no_price": 0.615
   },
   {
     "market_id": "1879424",
@@ -22211,8 +22211,8 @@
     "end_date": "2026-04-12T16:00:00Z",
     "added_date": "2026-04-05",
     "notes": "",
-    "outcome_yes_price": 0.9975,
-    "outcome_no_price": 0.0025
+    "outcome_yes_price": 0.385,
+    "outcome_no_price": 0.615
   },
   {
     "market_id": "1879399",
@@ -22226,8 +22226,8 @@
     "end_date": "2026-04-12T16:00:00Z",
     "added_date": "2026-04-05",
     "notes": "",
-    "outcome_yes_price": 0.9975,
-    "outcome_no_price": 0.0025
+    "outcome_yes_price": 0.385,
+    "outcome_no_price": 0.615
   },
   {
     "market_id": "1879428",
@@ -22241,8 +22241,8 @@
     "end_date": "2026-04-12T16:00:00Z",
     "added_date": "2026-04-05",
     "notes": "",
-    "outcome_yes_price": 0.9975,
-    "outcome_no_price": 0.0025
+    "outcome_yes_price": 0.385,
+    "outcome_no_price": 0.615
   },
   {
     "market_id": "1879410",
@@ -22256,8 +22256,8 @@
     "end_date": "2026-04-12T16:00:00Z",
     "added_date": "2026-04-05",
     "notes": "",
-    "outcome_yes_price": 0.9975,
-    "outcome_no_price": 0.0025
+    "outcome_yes_price": 0.385,
+    "outcome_no_price": 0.615
   },
   {
     "market_id": "1891971",
@@ -22271,8 +22271,8 @@
     "end_date": "2026-04-13T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.875,
-    "outcome_no_price": 0.125
+    "outcome_yes_price": 0.16,
+    "outcome_no_price": 0.84
   },
   {
     "market_id": "1891974",
@@ -22286,8 +22286,8 @@
     "end_date": "2026-04-13T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.875,
-    "outcome_no_price": 0.125
+    "outcome_yes_price": 0.16,
+    "outcome_no_price": 0.84
   },
   {
     "market_id": "1891978",
@@ -22301,8 +22301,8 @@
     "end_date": "2026-04-13T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.875,
-    "outcome_no_price": 0.125
+    "outcome_yes_price": 0.16,
+    "outcome_no_price": 0.84
   },
   {
     "market_id": "1891980",
@@ -22316,8 +22316,8 @@
     "end_date": "2026-04-13T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.875,
-    "outcome_no_price": 0.125
+    "outcome_yes_price": 0.16,
+    "outcome_no_price": 0.84
   },
   {
     "market_id": "1891969",
@@ -22331,8 +22331,8 @@
     "end_date": "2026-04-13T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.875,
-    "outcome_no_price": 0.125
+    "outcome_yes_price": 0.16,
+    "outcome_no_price": 0.84
   },
   {
     "market_id": "1891967",
@@ -22346,8 +22346,8 @@
     "end_date": "2026-04-13T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.875,
-    "outcome_no_price": 0.125
+    "outcome_yes_price": 0.16,
+    "outcome_no_price": 0.84
   },
   {
     "market_id": "1891982",
@@ -22361,8 +22361,8 @@
     "end_date": "2026-04-13T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.875,
-    "outcome_no_price": 0.125
+    "outcome_yes_price": 0.16,
+    "outcome_no_price": 0.84
   },
   {
     "market_id": "1891965",
@@ -22376,8 +22376,8 @@
     "end_date": "2026-04-13T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.875,
-    "outcome_no_price": 0.125
+    "outcome_yes_price": 0.16,
+    "outcome_no_price": 0.84
   },
   {
     "market_id": "1891976",
@@ -22391,8 +22391,8 @@
     "end_date": "2026-04-13T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.875,
-    "outcome_no_price": 0.125
+    "outcome_yes_price": 0.16,
+    "outcome_no_price": 0.84
   },
   {
     "market_id": "1891963",
@@ -22406,8 +22406,8 @@
     "end_date": "2026-04-13T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.875,
-    "outcome_no_price": 0.125
+    "outcome_yes_price": 0.16,
+    "outcome_no_price": 0.84
   },
   {
     "market_id": "1891960",
@@ -22421,8 +22421,8 @@
     "end_date": "2026-04-13T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.875,
-    "outcome_no_price": 0.125
+    "outcome_yes_price": 0.16,
+    "outcome_no_price": 0.84
   },
   {
     "market_id": "1908714",
@@ -22436,8 +22436,8 @@
     "end_date": "2026-04-14T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.845,
-    "outcome_no_price": 0.155
+    "outcome_yes_price": 0.93,
+    "outcome_no_price": 0.07
   },
   {
     "market_id": "1908730",
@@ -22451,8 +22451,8 @@
     "end_date": "2026-04-14T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.845,
-    "outcome_no_price": 0.155
+    "outcome_yes_price": 0.93,
+    "outcome_no_price": 0.07
   },
   {
     "market_id": "1908726",
@@ -22466,8 +22466,8 @@
     "end_date": "2026-04-14T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.845,
-    "outcome_no_price": 0.155
+    "outcome_yes_price": 0.93,
+    "outcome_no_price": 0.07
   },
   {
     "market_id": "1908712",
@@ -22481,8 +22481,8 @@
     "end_date": "2026-04-14T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.845,
-    "outcome_no_price": 0.155
+    "outcome_yes_price": 0.93,
+    "outcome_no_price": 0.07
   },
   {
     "market_id": "1908728",
@@ -22496,8 +22496,8 @@
     "end_date": "2026-04-14T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.845,
-    "outcome_no_price": 0.155
+    "outcome_yes_price": 0.93,
+    "outcome_no_price": 0.07
   },
   {
     "market_id": "1908716",
@@ -22511,8 +22511,8 @@
     "end_date": "2026-04-14T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.845,
-    "outcome_no_price": 0.155
+    "outcome_yes_price": 0.93,
+    "outcome_no_price": 0.07
   },
   {
     "market_id": "1908732",
@@ -22526,8 +22526,8 @@
     "end_date": "2026-04-14T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.845,
-    "outcome_no_price": 0.155
+    "outcome_yes_price": 0.93,
+    "outcome_no_price": 0.07
   },
   {
     "market_id": "1908734",
@@ -22541,8 +22541,8 @@
     "end_date": "2026-04-14T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.845,
-    "outcome_no_price": 0.155
+    "outcome_yes_price": 0.93,
+    "outcome_no_price": 0.07
   },
   {
     "market_id": "1908718",
@@ -22556,8 +22556,8 @@
     "end_date": "2026-04-14T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.845,
-    "outcome_no_price": 0.155
+    "outcome_yes_price": 0.93,
+    "outcome_no_price": 0.07
   },
   {
     "market_id": "1908720",
@@ -22571,8 +22571,8 @@
     "end_date": "2026-04-14T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.845,
-    "outcome_no_price": 0.155
+    "outcome_yes_price": 0.93,
+    "outcome_no_price": 0.07
   },
   {
     "market_id": "1908722",
@@ -22586,8 +22586,8 @@
     "end_date": "2026-04-14T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.845,
-    "outcome_no_price": 0.155
+    "outcome_yes_price": 0.93,
+    "outcome_no_price": 0.07
   },
   {
     "market_id": "1762326",
@@ -22601,8 +22601,8 @@
     "end_date": "2026-04-04T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1762328",
@@ -22616,8 +22616,8 @@
     "end_date": "2026-04-04T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1762312",
@@ -22631,8 +22631,8 @@
     "end_date": "2026-04-04T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1762335",
@@ -22646,8 +22646,8 @@
     "end_date": "2026-04-04T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1762315",
@@ -22661,8 +22661,8 @@
     "end_date": "2026-04-04T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1762318",
@@ -22676,8 +22676,8 @@
     "end_date": "2026-04-04T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1762331",
@@ -22691,8 +22691,8 @@
     "end_date": "2026-04-04T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1762324",
@@ -22706,8 +22706,8 @@
     "end_date": "2026-04-04T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1762314",
@@ -22721,8 +22721,8 @@
     "end_date": "2026-04-04T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1762333",
@@ -22736,8 +22736,8 @@
     "end_date": "2026-04-04T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1762321",
@@ -22751,8 +22751,8 @@
     "end_date": "2026-04-04T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1777597",
@@ -22766,8 +22766,8 @@
     "end_date": "2026-04-05T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1777603",
@@ -22781,8 +22781,8 @@
     "end_date": "2026-04-05T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1777600",
@@ -22796,8 +22796,8 @@
     "end_date": "2026-04-05T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1777585",
@@ -22811,8 +22811,8 @@
     "end_date": "2026-04-05T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1777593",
@@ -22826,8 +22826,8 @@
     "end_date": "2026-04-05T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1777573",
@@ -22841,8 +22841,8 @@
     "end_date": "2026-04-05T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1777581",
@@ -22856,8 +22856,8 @@
     "end_date": "2026-04-05T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1777589",
@@ -22871,8 +22871,8 @@
     "end_date": "2026-04-05T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1777577",
@@ -22886,8 +22886,8 @@
     "end_date": "2026-04-05T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1777604",
@@ -22901,8 +22901,8 @@
     "end_date": "2026-04-05T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1777602",
@@ -22916,8 +22916,8 @@
     "end_date": "2026-04-05T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1792507",
@@ -23096,8 +23096,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1808037",
@@ -23111,8 +23111,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1808021",
@@ -23126,8 +23126,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1808019",
@@ -23141,8 +23141,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1808029",
@@ -23156,8 +23156,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1808023",
@@ -23171,8 +23171,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1808035",
@@ -23186,8 +23186,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1808027",
@@ -23201,8 +23201,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1808040",
@@ -23216,8 +23216,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1808025",
@@ -23231,8 +23231,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1808039",
@@ -23246,8 +23246,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1817380",
@@ -23426,8 +23426,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.925,
+    "outcome_no_price": 0.075
   },
   {
     "market_id": "1831439",
@@ -23441,8 +23441,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.925,
+    "outcome_no_price": 0.075
   },
   {
     "market_id": "1831435",
@@ -23456,8 +23456,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.925,
+    "outcome_no_price": 0.075
   },
   {
     "market_id": "1831449",
@@ -23471,8 +23471,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.925,
+    "outcome_no_price": 0.075
   },
   {
     "market_id": "1831454",
@@ -23486,8 +23486,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.925,
+    "outcome_no_price": 0.075
   },
   {
     "market_id": "1831451",
@@ -23501,8 +23501,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.925,
+    "outcome_no_price": 0.075
   },
   {
     "market_id": "1831430",
@@ -23516,8 +23516,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.925,
+    "outcome_no_price": 0.075
   },
   {
     "market_id": "1831433",
@@ -23531,8 +23531,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.925,
+    "outcome_no_price": 0.075
   },
   {
     "market_id": "1831437",
@@ -23546,8 +23546,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.925,
+    "outcome_no_price": 0.075
   },
   {
     "market_id": "1831441",
@@ -23561,8 +23561,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.925,
+    "outcome_no_price": 0.075
   },
   {
     "market_id": "1831446",
@@ -23576,8 +23576,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.925,
+    "outcome_no_price": 0.075
   },
   {
     "market_id": "1846017",
@@ -23591,8 +23591,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0035,
-    "outcome_no_price": 0.9965
+    "outcome_yes_price": 0.0025,
+    "outcome_no_price": 0.9975
   },
   {
     "market_id": "1846014",
@@ -23606,8 +23606,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0035,
-    "outcome_no_price": 0.9965
+    "outcome_yes_price": 0.0025,
+    "outcome_no_price": 0.9975
   },
   {
     "market_id": "1846025",
@@ -23621,8 +23621,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0035,
-    "outcome_no_price": 0.9965
+    "outcome_yes_price": 0.0025,
+    "outcome_no_price": 0.9975
   },
   {
     "market_id": "1846010",
@@ -23636,8 +23636,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0035,
-    "outcome_no_price": 0.9965
+    "outcome_yes_price": 0.0025,
+    "outcome_no_price": 0.9975
   },
   {
     "market_id": "1846023",
@@ -23651,8 +23651,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0035,
-    "outcome_no_price": 0.9965
+    "outcome_yes_price": 0.0025,
+    "outcome_no_price": 0.9975
   },
   {
     "market_id": "1846031",
@@ -23666,8 +23666,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0035,
-    "outcome_no_price": 0.9965
+    "outcome_yes_price": 0.0025,
+    "outcome_no_price": 0.9975
   },
   {
     "market_id": "1846012",
@@ -23681,8 +23681,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0035,
-    "outcome_no_price": 0.9965
+    "outcome_yes_price": 0.0025,
+    "outcome_no_price": 0.9975
   },
   {
     "market_id": "1846021",
@@ -23696,8 +23696,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0035,
-    "outcome_no_price": 0.9965
+    "outcome_yes_price": 0.0025,
+    "outcome_no_price": 0.9975
   },
   {
     "market_id": "1846027",
@@ -23711,8 +23711,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0035,
-    "outcome_no_price": 0.9965
+    "outcome_yes_price": 0.0025,
+    "outcome_no_price": 0.9975
   },
   {
     "market_id": "1846019",
@@ -23726,8 +23726,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0035,
-    "outcome_no_price": 0.9965
+    "outcome_yes_price": 0.0025,
+    "outcome_no_price": 0.9975
   },
   {
     "market_id": "1846006",
@@ -23741,8 +23741,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0035,
-    "outcome_no_price": 0.9965
+    "outcome_yes_price": 0.0025,
+    "outcome_no_price": 0.9975
   },
   {
     "market_id": "1879338",
@@ -23756,8 +23756,8 @@
     "end_date": "2026-04-12T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.034,
-    "outcome_no_price": 0.966
+    "outcome_yes_price": 0.295,
+    "outcome_no_price": 0.705
   },
   {
     "market_id": "1879325",
@@ -23771,8 +23771,8 @@
     "end_date": "2026-04-12T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.034,
-    "outcome_no_price": 0.966
+    "outcome_yes_price": 0.295,
+    "outcome_no_price": 0.705
   },
   {
     "market_id": "1879326",
@@ -23786,8 +23786,8 @@
     "end_date": "2026-04-12T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.034,
-    "outcome_no_price": 0.966
+    "outcome_yes_price": 0.295,
+    "outcome_no_price": 0.705
   },
   {
     "market_id": "1879340",
@@ -23801,8 +23801,8 @@
     "end_date": "2026-04-12T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.034,
-    "outcome_no_price": 0.966
+    "outcome_yes_price": 0.295,
+    "outcome_no_price": 0.705
   },
   {
     "market_id": "1879345",
@@ -23816,8 +23816,8 @@
     "end_date": "2026-04-12T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.034,
-    "outcome_no_price": 0.966
+    "outcome_yes_price": 0.295,
+    "outcome_no_price": 0.705
   },
   {
     "market_id": "1879331",
@@ -23831,8 +23831,8 @@
     "end_date": "2026-04-12T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.034,
-    "outcome_no_price": 0.966
+    "outcome_yes_price": 0.295,
+    "outcome_no_price": 0.705
   },
   {
     "market_id": "1879333",
@@ -23846,8 +23846,8 @@
     "end_date": "2026-04-12T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.034,
-    "outcome_no_price": 0.966
+    "outcome_yes_price": 0.295,
+    "outcome_no_price": 0.705
   },
   {
     "market_id": "1879335",
@@ -23861,8 +23861,8 @@
     "end_date": "2026-04-12T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.034,
-    "outcome_no_price": 0.966
+    "outcome_yes_price": 0.295,
+    "outcome_no_price": 0.705
   },
   {
     "market_id": "1879348",
@@ -23876,8 +23876,8 @@
     "end_date": "2026-04-12T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.034,
-    "outcome_no_price": 0.966
+    "outcome_yes_price": 0.295,
+    "outcome_no_price": 0.705
   },
   {
     "market_id": "1879328",
@@ -23891,8 +23891,8 @@
     "end_date": "2026-04-12T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.034,
-    "outcome_no_price": 0.966
+    "outcome_yes_price": 0.295,
+    "outcome_no_price": 0.705
   },
   {
     "market_id": "1879343",
@@ -23906,8 +23906,8 @@
     "end_date": "2026-04-12T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.034,
-    "outcome_no_price": 0.966
+    "outcome_yes_price": 0.295,
+    "outcome_no_price": 0.705
   },
   {
     "market_id": "1891905",
@@ -23921,8 +23921,8 @@
     "end_date": "2026-04-13T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0535,
-    "outcome_no_price": 0.9465
+    "outcome_yes_price": 0.0205,
+    "outcome_no_price": 0.9795
   },
   {
     "market_id": "1891924",
@@ -23936,8 +23936,8 @@
     "end_date": "2026-04-13T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0535,
-    "outcome_no_price": 0.9465
+    "outcome_yes_price": 0.0205,
+    "outcome_no_price": 0.9795
   },
   {
     "market_id": "1891912",
@@ -23951,8 +23951,8 @@
     "end_date": "2026-04-13T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0535,
-    "outcome_no_price": 0.9465
+    "outcome_yes_price": 0.0205,
+    "outcome_no_price": 0.9795
   },
   {
     "market_id": "1891898",
@@ -23966,8 +23966,8 @@
     "end_date": "2026-04-13T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0535,
-    "outcome_no_price": 0.9465
+    "outcome_yes_price": 0.0205,
+    "outcome_no_price": 0.9795
   },
   {
     "market_id": "1891908",
@@ -23981,8 +23981,8 @@
     "end_date": "2026-04-13T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0535,
-    "outcome_no_price": 0.9465
+    "outcome_yes_price": 0.0205,
+    "outcome_no_price": 0.9795
   },
   {
     "market_id": "1891901",
@@ -23996,8 +23996,8 @@
     "end_date": "2026-04-13T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0535,
-    "outcome_no_price": 0.9465
+    "outcome_yes_price": 0.0205,
+    "outcome_no_price": 0.9795
   },
   {
     "market_id": "1891918",
@@ -24011,8 +24011,8 @@
     "end_date": "2026-04-13T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0535,
-    "outcome_no_price": 0.9465
+    "outcome_yes_price": 0.0205,
+    "outcome_no_price": 0.9795
   },
   {
     "market_id": "1891894",
@@ -24026,8 +24026,8 @@
     "end_date": "2026-04-13T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0535,
-    "outcome_no_price": 0.9465
+    "outcome_yes_price": 0.0205,
+    "outcome_no_price": 0.9795
   },
   {
     "market_id": "1891920",
@@ -24041,8 +24041,8 @@
     "end_date": "2026-04-13T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0535,
-    "outcome_no_price": 0.9465
+    "outcome_yes_price": 0.0205,
+    "outcome_no_price": 0.9795
   },
   {
     "market_id": "1891891",
@@ -24056,8 +24056,8 @@
     "end_date": "2026-04-13T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0535,
-    "outcome_no_price": 0.9465
+    "outcome_yes_price": 0.0205,
+    "outcome_no_price": 0.9795
   },
   {
     "market_id": "1891915",
@@ -24071,8 +24071,8 @@
     "end_date": "2026-04-13T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0535,
-    "outcome_no_price": 0.9465
+    "outcome_yes_price": 0.0205,
+    "outcome_no_price": 0.9795
   },
   {
     "market_id": "1777506",
@@ -24746,8 +24746,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.775,
+    "outcome_no_price": 0.225
   },
   {
     "market_id": "1831397",
@@ -24761,8 +24761,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.775,
+    "outcome_no_price": 0.225
   },
   {
     "market_id": "1831385",
@@ -24776,8 +24776,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.775,
+    "outcome_no_price": 0.225
   },
   {
     "market_id": "1831388",
@@ -24791,8 +24791,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.775,
+    "outcome_no_price": 0.225
   },
   {
     "market_id": "1831367",
@@ -24806,8 +24806,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.775,
+    "outcome_no_price": 0.225
   },
   {
     "market_id": "1831373",
@@ -24821,8 +24821,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.775,
+    "outcome_no_price": 0.225
   },
   {
     "market_id": "1831393",
@@ -24836,8 +24836,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.775,
+    "outcome_no_price": 0.225
   },
   {
     "market_id": "1831379",
@@ -24851,8 +24851,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.775,
+    "outcome_no_price": 0.225
   },
   {
     "market_id": "1831382",
@@ -24866,8 +24866,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.775,
+    "outcome_no_price": 0.225
   },
   {
     "market_id": "1831401",
@@ -24881,8 +24881,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.775,
+    "outcome_no_price": 0.225
   },
   {
     "market_id": "1831369",
@@ -24896,8 +24896,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.775,
+    "outcome_no_price": 0.225
   },
   {
     "market_id": "1846018",
@@ -24911,8 +24911,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0035,
-    "outcome_no_price": 0.9965
+    "outcome_yes_price": 0.986,
+    "outcome_no_price": 0.014
   },
   {
     "market_id": "1846007",
@@ -24926,8 +24926,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0035,
-    "outcome_no_price": 0.9965
+    "outcome_yes_price": 0.986,
+    "outcome_no_price": 0.014
   },
   {
     "market_id": "1846024",
@@ -24941,8 +24941,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0035,
-    "outcome_no_price": 0.9965
+    "outcome_yes_price": 0.986,
+    "outcome_no_price": 0.014
   },
   {
     "market_id": "1846015",
@@ -24956,8 +24956,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0035,
-    "outcome_no_price": 0.9965
+    "outcome_yes_price": 0.986,
+    "outcome_no_price": 0.014
   },
   {
     "market_id": "1846022",
@@ -24971,8 +24971,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0035,
-    "outcome_no_price": 0.9965
+    "outcome_yes_price": 0.986,
+    "outcome_no_price": 0.014
   },
   {
     "market_id": "1846029",
@@ -24986,8 +24986,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0035,
-    "outcome_no_price": 0.9965
+    "outcome_yes_price": 0.986,
+    "outcome_no_price": 0.014
   },
   {
     "market_id": "1846011",
@@ -25001,8 +25001,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0035,
-    "outcome_no_price": 0.9965
+    "outcome_yes_price": 0.986,
+    "outcome_no_price": 0.014
   },
   {
     "market_id": "1846026",
@@ -25016,8 +25016,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0035,
-    "outcome_no_price": 0.9965
+    "outcome_yes_price": 0.986,
+    "outcome_no_price": 0.014
   },
   {
     "market_id": "1846009",
@@ -25031,8 +25031,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0035,
-    "outcome_no_price": 0.9965
+    "outcome_yes_price": 0.986,
+    "outcome_no_price": 0.014
   },
   {
     "market_id": "1846020",
@@ -25046,8 +25046,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0035,
-    "outcome_no_price": 0.9965
+    "outcome_yes_price": 0.986,
+    "outcome_no_price": 0.014
   },
   {
     "market_id": "1846013",
@@ -25061,8 +25061,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0035,
-    "outcome_no_price": 0.9965
+    "outcome_yes_price": 0.986,
+    "outcome_no_price": 0.014
   },
   {
     "market_id": "1862454",
@@ -25076,8 +25076,8 @@
     "end_date": "2026-04-11T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.9975,
-    "outcome_no_price": 0.0025
+    "outcome_yes_price": 0.0065,
+    "outcome_no_price": 0.9935
   },
   {
     "market_id": "1862492",
@@ -25091,8 +25091,8 @@
     "end_date": "2026-04-11T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.9975,
-    "outcome_no_price": 0.0025
+    "outcome_yes_price": 0.0065,
+    "outcome_no_price": 0.9935
   },
   {
     "market_id": "1862489",
@@ -25106,8 +25106,8 @@
     "end_date": "2026-04-11T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.9975,
-    "outcome_no_price": 0.0025
+    "outcome_yes_price": 0.0065,
+    "outcome_no_price": 0.9935
   },
   {
     "market_id": "1862488",
@@ -25121,8 +25121,8 @@
     "end_date": "2026-04-11T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.9975,
-    "outcome_no_price": 0.0025
+    "outcome_yes_price": 0.0065,
+    "outcome_no_price": 0.9935
   },
   {
     "market_id": "1862456",
@@ -25136,8 +25136,8 @@
     "end_date": "2026-04-11T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.9975,
-    "outcome_no_price": 0.0025
+    "outcome_yes_price": 0.0065,
+    "outcome_no_price": 0.9935
   },
   {
     "market_id": "1862487",
@@ -25151,8 +25151,8 @@
     "end_date": "2026-04-11T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.9975,
-    "outcome_no_price": 0.0025
+    "outcome_yes_price": 0.0065,
+    "outcome_no_price": 0.9935
   },
   {
     "market_id": "1862484",
@@ -25166,8 +25166,8 @@
     "end_date": "2026-04-11T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.9975,
-    "outcome_no_price": 0.0025
+    "outcome_yes_price": 0.0065,
+    "outcome_no_price": 0.9935
   },
   {
     "market_id": "1862494",
@@ -25181,8 +25181,8 @@
     "end_date": "2026-04-11T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.9975,
-    "outcome_no_price": 0.0025
+    "outcome_yes_price": 0.0065,
+    "outcome_no_price": 0.9935
   },
   {
     "market_id": "1862452",
@@ -25196,8 +25196,8 @@
     "end_date": "2026-04-11T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.9975,
-    "outcome_no_price": 0.0025
+    "outcome_yes_price": 0.0065,
+    "outcome_no_price": 0.9935
   },
   {
     "market_id": "1862491",
@@ -25211,8 +25211,8 @@
     "end_date": "2026-04-11T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.9975,
-    "outcome_no_price": 0.0025
+    "outcome_yes_price": 0.0065,
+    "outcome_no_price": 0.9935
   },
   {
     "market_id": "1879334",
@@ -25226,8 +25226,8 @@
     "end_date": "2026-04-12T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0115,
-    "outcome_no_price": 0.9885
+    "outcome_yes_price": 0.994,
+    "outcome_no_price": 0.006
   },
   {
     "market_id": "1879344",
@@ -25241,8 +25241,8 @@
     "end_date": "2026-04-12T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0115,
-    "outcome_no_price": 0.9885
+    "outcome_yes_price": 0.994,
+    "outcome_no_price": 0.006
   },
   {
     "market_id": "1879329",
@@ -25256,8 +25256,8 @@
     "end_date": "2026-04-12T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0115,
-    "outcome_no_price": 0.9885
+    "outcome_yes_price": 0.994,
+    "outcome_no_price": 0.006
   },
   {
     "market_id": "1879341",
@@ -25271,8 +25271,8 @@
     "end_date": "2026-04-12T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0115,
-    "outcome_no_price": 0.9885
+    "outcome_yes_price": 0.994,
+    "outcome_no_price": 0.006
   },
   {
     "market_id": "1879346",
@@ -25286,8 +25286,8 @@
     "end_date": "2026-04-12T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0115,
-    "outcome_no_price": 0.9885
+    "outcome_yes_price": 0.994,
+    "outcome_no_price": 0.006
   },
   {
     "market_id": "1879332",
@@ -25301,8 +25301,8 @@
     "end_date": "2026-04-12T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0115,
-    "outcome_no_price": 0.9885
+    "outcome_yes_price": 0.994,
+    "outcome_no_price": 0.006
   },
   {
     "market_id": "1879339",
@@ -25316,8 +25316,8 @@
     "end_date": "2026-04-12T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0115,
-    "outcome_no_price": 0.9885
+    "outcome_yes_price": 0.994,
+    "outcome_no_price": 0.006
   },
   {
     "market_id": "1879336",
@@ -25331,8 +25331,8 @@
     "end_date": "2026-04-12T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0115,
-    "outcome_no_price": 0.9885
+    "outcome_yes_price": 0.994,
+    "outcome_no_price": 0.006
   },
   {
     "market_id": "1879330",
@@ -25346,8 +25346,8 @@
     "end_date": "2026-04-12T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0115,
-    "outcome_no_price": 0.9885
+    "outcome_yes_price": 0.994,
+    "outcome_no_price": 0.006
   },
   {
     "market_id": "1879327",
@@ -25361,8 +25361,8 @@
     "end_date": "2026-04-12T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0115,
-    "outcome_no_price": 0.9885
+    "outcome_yes_price": 0.994,
+    "outcome_no_price": 0.006
   },
   {
     "market_id": "1879349",
@@ -25376,8 +25376,8 @@
     "end_date": "2026-04-12T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.0115,
-    "outcome_no_price": 0.9885
+    "outcome_yes_price": 0.994,
+    "outcome_no_price": 0.006
   },
   {
     "market_id": "1891923",
@@ -25391,8 +25391,8 @@
     "end_date": "2026-04-13T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.989,
-    "outcome_no_price": 0.011
+    "outcome_yes_price": 0.9785,
+    "outcome_no_price": 0.0215
   },
   {
     "market_id": "1891919",
@@ -25406,8 +25406,8 @@
     "end_date": "2026-04-13T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.989,
-    "outcome_no_price": 0.011
+    "outcome_yes_price": 0.9785,
+    "outcome_no_price": 0.0215
   },
   {
     "market_id": "1891927",
@@ -25421,8 +25421,8 @@
     "end_date": "2026-04-13T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.989,
-    "outcome_no_price": 0.011
+    "outcome_yes_price": 0.9785,
+    "outcome_no_price": 0.0215
   },
   {
     "market_id": "1891900",
@@ -25436,8 +25436,8 @@
     "end_date": "2026-04-13T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.989,
-    "outcome_no_price": 0.011
+    "outcome_yes_price": 0.9785,
+    "outcome_no_price": 0.0215
   },
   {
     "market_id": "1891893",
@@ -25451,8 +25451,8 @@
     "end_date": "2026-04-13T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.989,
-    "outcome_no_price": 0.011
+    "outcome_yes_price": 0.9785,
+    "outcome_no_price": 0.0215
   },
   {
     "market_id": "1891897",
@@ -25466,8 +25466,8 @@
     "end_date": "2026-04-13T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.989,
-    "outcome_no_price": 0.011
+    "outcome_yes_price": 0.9785,
+    "outcome_no_price": 0.0215
   },
   {
     "market_id": "1891907",
@@ -25481,8 +25481,8 @@
     "end_date": "2026-04-13T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.989,
-    "outcome_no_price": 0.011
+    "outcome_yes_price": 0.9785,
+    "outcome_no_price": 0.0215
   },
   {
     "market_id": "1891913",
@@ -25496,8 +25496,8 @@
     "end_date": "2026-04-13T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.989,
-    "outcome_no_price": 0.011
+    "outcome_yes_price": 0.9785,
+    "outcome_no_price": 0.0215
   },
   {
     "market_id": "1891916",
@@ -25511,8 +25511,8 @@
     "end_date": "2026-04-13T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.989,
-    "outcome_no_price": 0.011
+    "outcome_yes_price": 0.9785,
+    "outcome_no_price": 0.0215
   },
   {
     "market_id": "1891910",
@@ -25526,8 +25526,8 @@
     "end_date": "2026-04-13T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.989,
-    "outcome_no_price": 0.011
+    "outcome_yes_price": 0.9785,
+    "outcome_no_price": 0.0215
   },
   {
     "market_id": "1891904",
@@ -25541,8 +25541,8 @@
     "end_date": "2026-04-13T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.989,
-    "outcome_no_price": 0.011
+    "outcome_yes_price": 0.9785,
+    "outcome_no_price": 0.0215
   },
   {
     "market_id": "1762296",
@@ -25556,8 +25556,8 @@
     "end_date": "2026-04-04T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1762259",
@@ -25571,8 +25571,8 @@
     "end_date": "2026-04-04T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1762266",
@@ -25586,8 +25586,8 @@
     "end_date": "2026-04-04T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1762293",
@@ -25601,8 +25601,8 @@
     "end_date": "2026-04-04T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1762257",
@@ -25616,8 +25616,8 @@
     "end_date": "2026-04-04T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1762300",
@@ -25631,8 +25631,8 @@
     "end_date": "2026-04-04T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1762263",
@@ -25646,8 +25646,8 @@
     "end_date": "2026-04-04T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1762295",
@@ -25661,8 +25661,8 @@
     "end_date": "2026-04-04T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1762256",
@@ -25676,8 +25676,8 @@
     "end_date": "2026-04-04T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1762291",
@@ -25691,8 +25691,8 @@
     "end_date": "2026-04-04T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1777510",
@@ -25706,8 +25706,8 @@
     "end_date": "2026-04-05T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1777524",
@@ -25721,8 +25721,8 @@
     "end_date": "2026-04-05T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1777527",
@@ -25736,8 +25736,8 @@
     "end_date": "2026-04-05T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1777529",
@@ -25751,8 +25751,8 @@
     "end_date": "2026-04-05T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1777516",
@@ -25766,8 +25766,8 @@
     "end_date": "2026-04-05T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1777505",
@@ -25781,8 +25781,8 @@
     "end_date": "2026-04-05T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1777519",
@@ -25796,8 +25796,8 @@
     "end_date": "2026-04-05T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1777522",
@@ -25811,8 +25811,8 @@
     "end_date": "2026-04-05T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1777513",
@@ -25826,8 +25826,8 @@
     "end_date": "2026-04-05T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1777508",
@@ -25841,8 +25841,8 @@
     "end_date": "2026-04-05T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1777507",
@@ -25856,8 +25856,8 @@
     "end_date": "2026-04-05T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1792458",
@@ -25871,8 +25871,8 @@
     "end_date": "2026-04-06T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1792470",
@@ -25886,8 +25886,8 @@
     "end_date": "2026-04-06T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1792474",
@@ -25901,8 +25901,8 @@
     "end_date": "2026-04-06T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1792449",
@@ -25916,8 +25916,8 @@
     "end_date": "2026-04-06T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1792452",
@@ -25931,8 +25931,8 @@
     "end_date": "2026-04-06T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1792461",
@@ -25946,8 +25946,8 @@
     "end_date": "2026-04-06T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1792467",
@@ -25961,8 +25961,8 @@
     "end_date": "2026-04-06T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1792464",
@@ -25976,8 +25976,8 @@
     "end_date": "2026-04-06T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1792455",
@@ -25991,8 +25991,8 @@
     "end_date": "2026-04-06T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1792443",
@@ -26006,8 +26006,8 @@
     "end_date": "2026-04-06T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1792446",
@@ -26021,8 +26021,8 @@
     "end_date": "2026-04-06T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1808004",
@@ -26531,8 +26531,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.435,
-    "outcome_no_price": 0.565
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1846095",
@@ -26546,8 +26546,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.435,
-    "outcome_no_price": 0.565
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1846072",
@@ -26561,8 +26561,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.435,
-    "outcome_no_price": 0.565
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1846085",
@@ -26576,8 +26576,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.435,
-    "outcome_no_price": 0.565
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1846069",
@@ -26591,8 +26591,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.435,
-    "outcome_no_price": 0.565
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1846091",
@@ -26606,8 +26606,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.435,
-    "outcome_no_price": 0.565
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1846078",
@@ -26621,8 +26621,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.435,
-    "outcome_no_price": 0.565
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1846081",
@@ -26636,8 +26636,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.435,
-    "outcome_no_price": 0.565
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1846083",
@@ -26651,8 +26651,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.435,
-    "outcome_no_price": 0.565
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1846088",
@@ -26666,8 +26666,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.435,
-    "outcome_no_price": 0.565
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1846093",
@@ -26681,8 +26681,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.435,
-    "outcome_no_price": 0.565
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1862486",
@@ -26696,8 +26696,8 @@
     "end_date": "2026-04-11T16:00:00Z",
     "added_date": "2026-04-09",
     "notes": "",
-    "outcome_yes_price": 0.025,
-    "outcome_no_price": 0.975
+    "outcome_yes_price": 0.395,
+    "outcome_no_price": 0.605
   },
   {
     "market_id": "1862481",
@@ -26711,8 +26711,8 @@
     "end_date": "2026-04-11T16:00:00Z",
     "added_date": "2026-04-09",
     "notes": "",
-    "outcome_yes_price": 0.025,
-    "outcome_no_price": 0.975
+    "outcome_yes_price": 0.395,
+    "outcome_no_price": 0.605
   },
   {
     "market_id": "1862475",
@@ -26726,8 +26726,8 @@
     "end_date": "2026-04-11T16:00:00Z",
     "added_date": "2026-04-09",
     "notes": "",
-    "outcome_yes_price": 0.025,
-    "outcome_no_price": 0.975
+    "outcome_yes_price": 0.395,
+    "outcome_no_price": 0.605
   },
   {
     "market_id": "1862472",
@@ -26741,8 +26741,8 @@
     "end_date": "2026-04-11T16:00:00Z",
     "added_date": "2026-04-09",
     "notes": "",
-    "outcome_yes_price": 0.025,
-    "outcome_no_price": 0.975
+    "outcome_yes_price": 0.395,
+    "outcome_no_price": 0.605
   },
   {
     "market_id": "1862473",
@@ -26756,8 +26756,8 @@
     "end_date": "2026-04-11T16:00:00Z",
     "added_date": "2026-04-09",
     "notes": "",
-    "outcome_yes_price": 0.025,
-    "outcome_no_price": 0.975
+    "outcome_yes_price": 0.395,
+    "outcome_no_price": 0.605
   },
   {
     "market_id": "1862469",
@@ -26771,8 +26771,8 @@
     "end_date": "2026-04-11T16:00:00Z",
     "added_date": "2026-04-09",
     "notes": "",
-    "outcome_yes_price": 0.025,
-    "outcome_no_price": 0.975
+    "outcome_yes_price": 0.395,
+    "outcome_no_price": 0.605
   },
   {
     "market_id": "1862479",
@@ -26786,8 +26786,8 @@
     "end_date": "2026-04-11T16:00:00Z",
     "added_date": "2026-04-09",
     "notes": "",
-    "outcome_yes_price": 0.025,
-    "outcome_no_price": 0.975
+    "outcome_yes_price": 0.395,
+    "outcome_no_price": 0.605
   },
   {
     "market_id": "1862476",
@@ -26801,8 +26801,8 @@
     "end_date": "2026-04-11T16:00:00Z",
     "added_date": "2026-04-09",
     "notes": "",
-    "outcome_yes_price": 0.025,
-    "outcome_no_price": 0.975
+    "outcome_yes_price": 0.395,
+    "outcome_no_price": 0.605
   },
   {
     "market_id": "1862480",
@@ -26816,8 +26816,8 @@
     "end_date": "2026-04-11T16:00:00Z",
     "added_date": "2026-04-09",
     "notes": "",
-    "outcome_yes_price": 0.025,
-    "outcome_no_price": 0.975
+    "outcome_yes_price": 0.395,
+    "outcome_no_price": 0.605
   },
   {
     "market_id": "1862478",
@@ -26831,8 +26831,8 @@
     "end_date": "2026-04-11T16:00:00Z",
     "added_date": "2026-04-09",
     "notes": "",
-    "outcome_yes_price": 0.025,
-    "outcome_no_price": 0.975
+    "outcome_yes_price": 0.395,
+    "outcome_no_price": 0.605
   },
   {
     "market_id": "1862483",
@@ -26846,8 +26846,8 @@
     "end_date": "2026-04-11T16:00:00Z",
     "added_date": "2026-04-09",
     "notes": "",
-    "outcome_yes_price": 0.025,
-    "outcome_no_price": 0.975
+    "outcome_yes_price": 0.395,
+    "outcome_no_price": 0.605
   },
   {
     "market_id": "1762306",
@@ -27686,8 +27686,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.6,
-    "outcome_no_price": 0.4
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1831447",
@@ -27701,8 +27701,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.6,
-    "outcome_no_price": 0.4
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1831440",
@@ -27716,8 +27716,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.6,
-    "outcome_no_price": 0.4
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1831434",
@@ -27731,8 +27731,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.6,
-    "outcome_no_price": 0.4
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1831452",
@@ -27746,8 +27746,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.6,
-    "outcome_no_price": 0.4
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1831431",
@@ -27761,8 +27761,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.6,
-    "outcome_no_price": 0.4
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1831443",
@@ -27776,8 +27776,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.6,
-    "outcome_no_price": 0.4
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1831445",
@@ -27791,8 +27791,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.6,
-    "outcome_no_price": 0.4
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1831450",
@@ -27806,8 +27806,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.6,
-    "outcome_no_price": 0.4
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1831436",
@@ -27821,8 +27821,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.6,
-    "outcome_no_price": 0.4
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1831455",
@@ -27836,8 +27836,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.6,
-    "outcome_no_price": 0.4
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1846105",
@@ -27851,8 +27851,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1846121",
@@ -27866,8 +27866,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1846117",
@@ -27881,8 +27881,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1846107",
@@ -27896,8 +27896,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1846119",
@@ -27911,8 +27911,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1846101",
@@ -27926,8 +27926,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1846111",
@@ -27941,8 +27941,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1846109",
@@ -27956,8 +27956,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1846115",
@@ -27971,8 +27971,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1846103",
@@ -27986,8 +27986,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1846113",
@@ -28001,8 +28001,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1762366",
@@ -28496,8 +28496,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1808051",
@@ -28511,8 +28511,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1808063",
@@ -28526,8 +28526,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1808056",
@@ -28541,8 +28541,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1808053",
@@ -28556,8 +28556,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1808050",
@@ -28571,8 +28571,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1808061",
@@ -28586,8 +28586,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1808067",
@@ -28601,8 +28601,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1808047",
@@ -28616,8 +28616,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1808066",
@@ -28631,8 +28631,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1808068",
@@ -28646,8 +28646,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1817414",
@@ -28661,8 +28661,8 @@
     "end_date": "2026-04-08T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1817426",
@@ -28676,8 +28676,8 @@
     "end_date": "2026-04-08T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1817430",
@@ -28691,8 +28691,8 @@
     "end_date": "2026-04-08T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1817432",
@@ -28706,8 +28706,8 @@
     "end_date": "2026-04-08T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1817419",
@@ -28721,8 +28721,8 @@
     "end_date": "2026-04-08T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1817423",
@@ -28736,8 +28736,8 @@
     "end_date": "2026-04-08T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1817410",
@@ -28751,8 +28751,8 @@
     "end_date": "2026-04-08T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1817421",
@@ -28766,8 +28766,8 @@
     "end_date": "2026-04-08T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1817412",
@@ -28781,8 +28781,8 @@
     "end_date": "2026-04-08T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1817428",
@@ -28796,8 +28796,8 @@
     "end_date": "2026-04-08T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1817416",
@@ -28811,8 +28811,8 @@
     "end_date": "2026-04-08T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1831467",
@@ -28826,8 +28826,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.002,
-    "outcome_no_price": 0.998
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1831461",
@@ -28841,8 +28841,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.002,
-    "outcome_no_price": 0.998
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1831471",
@@ -28856,8 +28856,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.002,
-    "outcome_no_price": 0.998
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1831483",
@@ -28871,8 +28871,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.002,
-    "outcome_no_price": 0.998
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1831473",
@@ -28886,8 +28886,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.002,
-    "outcome_no_price": 0.998
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1831476",
@@ -28901,8 +28901,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.002,
-    "outcome_no_price": 0.998
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1831479",
@@ -28916,8 +28916,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.002,
-    "outcome_no_price": 0.998
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1831482",
@@ -28931,8 +28931,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.002,
-    "outcome_no_price": 0.998
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1831463",
@@ -28946,8 +28946,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.002,
-    "outcome_no_price": 0.998
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1831469",
@@ -28961,8 +28961,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.002,
-    "outcome_no_price": 0.998
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1831465",
@@ -28976,8 +28976,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.002,
-    "outcome_no_price": 0.998
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1762340",
@@ -28991,8 +28991,8 @@
     "end_date": "2026-04-04T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1762325",
@@ -29006,8 +29006,8 @@
     "end_date": "2026-04-04T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1762327",
@@ -29021,8 +29021,8 @@
     "end_date": "2026-04-04T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1762323",
@@ -29036,8 +29036,8 @@
     "end_date": "2026-04-04T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1762334",
@@ -29051,8 +29051,8 @@
     "end_date": "2026-04-04T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1762339",
@@ -29066,8 +29066,8 @@
     "end_date": "2026-04-04T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1762329",
@@ -29081,8 +29081,8 @@
     "end_date": "2026-04-04T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1762332",
@@ -29096,8 +29096,8 @@
     "end_date": "2026-04-04T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1762337",
@@ -29111,8 +29111,8 @@
     "end_date": "2026-04-04T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1762320",
@@ -29126,8 +29126,8 @@
     "end_date": "2026-04-04T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1762336",
@@ -29141,8 +29141,8 @@
     "end_date": "2026-04-04T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1777637",
@@ -29486,8 +29486,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.004,
-    "outcome_no_price": 0.996
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1808046",
@@ -29501,8 +29501,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.004,
-    "outcome_no_price": 0.996
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1808065",
@@ -29516,8 +29516,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.004,
-    "outcome_no_price": 0.996
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1808054",
@@ -29531,8 +29531,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.004,
-    "outcome_no_price": 0.996
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1808048",
@@ -29546,8 +29546,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.004,
-    "outcome_no_price": 0.996
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1808064",
@@ -29561,8 +29561,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.004,
-    "outcome_no_price": 0.996
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1808057",
@@ -29576,8 +29576,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.004,
-    "outcome_no_price": 0.996
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1808052",
@@ -29591,8 +29591,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.004,
-    "outcome_no_price": 0.996
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1808059",
@@ -29606,8 +29606,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.004,
-    "outcome_no_price": 0.996
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1808062",
@@ -29621,8 +29621,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.004,
-    "outcome_no_price": 0.996
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1808049",
@@ -29636,8 +29636,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.004,
-    "outcome_no_price": 0.996
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1831464",
@@ -29651,8 +29651,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.035,
+    "outcome_no_price": 0.965
   },
   {
     "market_id": "1831480",
@@ -29666,8 +29666,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.035,
+    "outcome_no_price": 0.965
   },
   {
     "market_id": "1831466",
@@ -29681,8 +29681,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.035,
+    "outcome_no_price": 0.965
   },
   {
     "market_id": "1831460",
@@ -29696,8 +29696,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.035,
+    "outcome_no_price": 0.965
   },
   {
     "market_id": "1831472",
@@ -29711,8 +29711,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.035,
+    "outcome_no_price": 0.965
   },
   {
     "market_id": "1831477",
@@ -29726,8 +29726,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.035,
+    "outcome_no_price": 0.965
   },
   {
     "market_id": "1831470",
@@ -29741,8 +29741,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.035,
+    "outcome_no_price": 0.965
   },
   {
     "market_id": "1831459",
@@ -29756,8 +29756,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.035,
+    "outcome_no_price": 0.965
   },
   {
     "market_id": "1831474",
@@ -29771,8 +29771,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.035,
+    "outcome_no_price": 0.965
   },
   {
     "market_id": "1831468",
@@ -29786,8 +29786,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.035,
+    "outcome_no_price": 0.965
   },
   {
     "market_id": "1831462",
@@ -29801,8 +29801,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.035,
+    "outcome_no_price": 0.965
   },
   {
     "market_id": "1885995",
@@ -29816,8 +29816,8 @@
     "end_date": "2026-04-13T04:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.009,
-    "outcome_no_price": 0.991
+    "outcome_yes_price": 0.0045,
+    "outcome_no_price": 0.9955
   },
   {
     "market_id": "1886015",
@@ -29831,8 +29831,8 @@
     "end_date": "2026-04-13T04:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.009,
-    "outcome_no_price": 0.991
+    "outcome_yes_price": 0.0045,
+    "outcome_no_price": 0.9955
   },
   {
     "market_id": "1885985",
@@ -29846,8 +29846,8 @@
     "end_date": "2026-04-13T04:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.009,
-    "outcome_no_price": 0.991
+    "outcome_yes_price": 0.0045,
+    "outcome_no_price": 0.9955
   },
   {
     "market_id": "1886023",
@@ -29861,8 +29861,8 @@
     "end_date": "2026-04-13T04:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.009,
-    "outcome_no_price": 0.991
+    "outcome_yes_price": 0.0045,
+    "outcome_no_price": 0.9955
   },
   {
     "market_id": "1885989",
@@ -29876,8 +29876,8 @@
     "end_date": "2026-04-13T04:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.009,
-    "outcome_no_price": 0.991
+    "outcome_yes_price": 0.0045,
+    "outcome_no_price": 0.9955
   },
   {
     "market_id": "1886006",
@@ -29891,8 +29891,8 @@
     "end_date": "2026-04-13T04:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.009,
-    "outcome_no_price": 0.991
+    "outcome_yes_price": 0.0045,
+    "outcome_no_price": 0.9955
   },
   {
     "market_id": "1885993",
@@ -29906,8 +29906,8 @@
     "end_date": "2026-04-13T04:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.009,
-    "outcome_no_price": 0.991
+    "outcome_yes_price": 0.0045,
+    "outcome_no_price": 0.9955
   },
   {
     "market_id": "1886011",
@@ -29921,8 +29921,8 @@
     "end_date": "2026-04-13T04:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.009,
-    "outcome_no_price": 0.991
+    "outcome_yes_price": 0.0045,
+    "outcome_no_price": 0.9955
   },
   {
     "market_id": "1885980",
@@ -29936,8 +29936,8 @@
     "end_date": "2026-04-13T04:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.009,
-    "outcome_no_price": 0.991
+    "outcome_yes_price": 0.0045,
+    "outcome_no_price": 0.9955
   },
   {
     "market_id": "1885999",
@@ -29951,8 +29951,8 @@
     "end_date": "2026-04-13T04:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.009,
-    "outcome_no_price": 0.991
+    "outcome_yes_price": 0.0045,
+    "outcome_no_price": 0.9955
   },
   {
     "market_id": "1886008",
@@ -29966,8 +29966,8 @@
     "end_date": "2026-04-13T04:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.009,
-    "outcome_no_price": 0.991
+    "outcome_yes_price": 0.0045,
+    "outcome_no_price": 0.9955
   },
   {
     "market_id": "1886001",
@@ -29981,8 +29981,8 @@
     "end_date": "2026-04-13T04:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.009,
-    "outcome_no_price": 0.991
+    "outcome_yes_price": 0.0045,
+    "outcome_no_price": 0.9955
   },
   {
     "market_id": "1886025",
@@ -29996,8 +29996,8 @@
     "end_date": "2026-04-13T04:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.009,
-    "outcome_no_price": 0.991
+    "outcome_yes_price": 0.0045,
+    "outcome_no_price": 0.9955
   },
   {
     "market_id": "1886019",
@@ -30011,8 +30011,8 @@
     "end_date": "2026-04-13T04:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.009,
-    "outcome_no_price": 0.991
+    "outcome_yes_price": 0.0045,
+    "outcome_no_price": 0.9955
   },
   {
     "market_id": "1786335",
@@ -30236,8 +30236,8 @@
     "end_date": "2026-04-13T04:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.305,
-    "outcome_no_price": 0.695
+    "outcome_yes_price": 0.0095,
+    "outcome_no_price": 0.9905
   },
   {
     "market_id": "1886062",
@@ -30251,8 +30251,8 @@
     "end_date": "2026-04-13T04:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.305,
-    "outcome_no_price": 0.695
+    "outcome_yes_price": 0.0095,
+    "outcome_no_price": 0.9905
   },
   {
     "market_id": "1886076",
@@ -30266,8 +30266,8 @@
     "end_date": "2026-04-13T04:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.305,
-    "outcome_no_price": 0.695
+    "outcome_yes_price": 0.0095,
+    "outcome_no_price": 0.9905
   },
   {
     "market_id": "1886072",
@@ -30281,8 +30281,8 @@
     "end_date": "2026-04-13T04:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.305,
-    "outcome_no_price": 0.695
+    "outcome_yes_price": 0.0095,
+    "outcome_no_price": 0.9905
   },
   {
     "market_id": "1886068",
@@ -30296,8 +30296,8 @@
     "end_date": "2026-04-13T04:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.305,
-    "outcome_no_price": 0.695
+    "outcome_yes_price": 0.0095,
+    "outcome_no_price": 0.9905
   },
   {
     "market_id": "1886074",
@@ -30311,8 +30311,8 @@
     "end_date": "2026-04-13T04:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.305,
-    "outcome_no_price": 0.695
+    "outcome_yes_price": 0.0095,
+    "outcome_no_price": 0.9905
   },
   {
     "market_id": "1886058",
@@ -30326,8 +30326,8 @@
     "end_date": "2026-04-13T04:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.305,
-    "outcome_no_price": 0.695
+    "outcome_yes_price": 0.0095,
+    "outcome_no_price": 0.9905
   },
   {
     "market_id": "1886061",
@@ -30341,8 +30341,8 @@
     "end_date": "2026-04-13T04:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.305,
-    "outcome_no_price": 0.695
+    "outcome_yes_price": 0.0095,
+    "outcome_no_price": 0.9905
   },
   {
     "market_id": "1886059",
@@ -30356,8 +30356,8 @@
     "end_date": "2026-04-13T04:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.305,
-    "outcome_no_price": 0.695
+    "outcome_yes_price": 0.0095,
+    "outcome_no_price": 0.9905
   },
   {
     "market_id": "1886066",
@@ -30371,8 +30371,8 @@
     "end_date": "2026-04-13T04:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.305,
-    "outcome_no_price": 0.695
+    "outcome_yes_price": 0.0095,
+    "outcome_no_price": 0.9905
   },
   {
     "market_id": "1886064",
@@ -30386,8 +30386,8 @@
     "end_date": "2026-04-13T04:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.305,
-    "outcome_no_price": 0.695
+    "outcome_yes_price": 0.0095,
+    "outcome_no_price": 0.9905
   },
   {
     "market_id": "1886070",
@@ -30401,8 +30401,8 @@
     "end_date": "2026-04-13T04:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.305,
-    "outcome_no_price": 0.695
+    "outcome_yes_price": 0.0095,
+    "outcome_no_price": 0.9905
   },
   {
     "market_id": "1886060",
@@ -30416,8 +30416,8 @@
     "end_date": "2026-04-13T04:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.305,
-    "outcome_no_price": 0.695
+    "outcome_yes_price": 0.0095,
+    "outcome_no_price": 0.9905
   },
   {
     "market_id": "1886080",
@@ -30431,8 +30431,8 @@
     "end_date": "2026-04-13T04:00:00Z",
     "added_date": "2026-04-06",
     "notes": "",
-    "outcome_yes_price": 0.305,
-    "outcome_no_price": 0.695
+    "outcome_yes_price": 0.0095,
+    "outcome_no_price": 0.9905
   },
   {
     "market_id": "1786435",
@@ -30656,8 +30656,8 @@
     "end_date": "2026-04-13T04:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.016,
+    "outcome_no_price": 0.984
   },
   {
     "market_id": "1886088",
@@ -30671,8 +30671,8 @@
     "end_date": "2026-04-13T04:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.016,
+    "outcome_no_price": 0.984
   },
   {
     "market_id": "1886089",
@@ -30686,8 +30686,8 @@
     "end_date": "2026-04-13T04:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.016,
+    "outcome_no_price": 0.984
   },
   {
     "market_id": "1886109",
@@ -30701,8 +30701,8 @@
     "end_date": "2026-04-13T04:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.016,
+    "outcome_no_price": 0.984
   },
   {
     "market_id": "1886107",
@@ -30716,8 +30716,8 @@
     "end_date": "2026-04-13T04:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.016,
+    "outcome_no_price": 0.984
   },
   {
     "market_id": "1886105",
@@ -30731,8 +30731,8 @@
     "end_date": "2026-04-13T04:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.016,
+    "outcome_no_price": 0.984
   },
   {
     "market_id": "1886101",
@@ -30746,8 +30746,8 @@
     "end_date": "2026-04-13T04:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.016,
+    "outcome_no_price": 0.984
   },
   {
     "market_id": "1886091",
@@ -30761,8 +30761,8 @@
     "end_date": "2026-04-13T04:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.016,
+    "outcome_no_price": 0.984
   },
   {
     "market_id": "1886092",
@@ -30776,8 +30776,8 @@
     "end_date": "2026-04-13T04:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.016,
+    "outcome_no_price": 0.984
   },
   {
     "market_id": "1886095",
@@ -30791,8 +30791,8 @@
     "end_date": "2026-04-13T04:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.016,
+    "outcome_no_price": 0.984
   },
   {
     "market_id": "1886099",
@@ -30806,8 +30806,8 @@
     "end_date": "2026-04-13T04:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.016,
+    "outcome_no_price": 0.984
   },
   {
     "market_id": "1886093",
@@ -30821,8 +30821,8 @@
     "end_date": "2026-04-13T04:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.016,
+    "outcome_no_price": 0.984
   },
   {
     "market_id": "1886097",
@@ -30836,8 +30836,8 @@
     "end_date": "2026-04-13T04:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.016,
+    "outcome_no_price": 0.984
   },
   {
     "market_id": "1886111",
@@ -30851,8 +30851,8 @@
     "end_date": "2026-04-13T04:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.016,
+    "outcome_no_price": 0.984
   },
   {
     "market_id": "1786466",
@@ -30866,8 +30866,8 @@
     "end_date": "2026-04-06T04:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.007,
-    "outcome_no_price": 0.993
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1786449",
@@ -30881,8 +30881,8 @@
     "end_date": "2026-04-06T04:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.007,
-    "outcome_no_price": 0.993
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1786470",
@@ -30896,8 +30896,8 @@
     "end_date": "2026-04-06T04:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.007,
-    "outcome_no_price": 0.993
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1786457",
@@ -30911,8 +30911,8 @@
     "end_date": "2026-04-06T04:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.007,
-    "outcome_no_price": 0.993
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1786468",
@@ -30926,8 +30926,8 @@
     "end_date": "2026-04-06T04:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.007,
-    "outcome_no_price": 0.993
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1786455",
@@ -30941,8 +30941,8 @@
     "end_date": "2026-04-06T04:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.007,
-    "outcome_no_price": 0.993
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1786459",
@@ -30956,8 +30956,8 @@
     "end_date": "2026-04-06T04:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.007,
-    "outcome_no_price": 0.993
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1786473",
@@ -30971,8 +30971,8 @@
     "end_date": "2026-04-06T04:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.007,
-    "outcome_no_price": 0.993
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1786451",
@@ -30986,8 +30986,8 @@
     "end_date": "2026-04-06T04:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.007,
-    "outcome_no_price": 0.993
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1786453",
@@ -31001,8 +31001,8 @@
     "end_date": "2026-04-06T04:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.007,
-    "outcome_no_price": 0.993
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1786472",
@@ -31016,8 +31016,8 @@
     "end_date": "2026-04-06T04:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.007,
-    "outcome_no_price": 0.993
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1786471",
@@ -31031,8 +31031,8 @@
     "end_date": "2026-04-06T04:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.007,
-    "outcome_no_price": 0.993
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1786463",
@@ -31046,8 +31046,8 @@
     "end_date": "2026-04-06T04:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.007,
-    "outcome_no_price": 0.993
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1786461",
@@ -31061,8 +31061,8 @@
     "end_date": "2026-04-06T04:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.007,
-    "outcome_no_price": 0.993
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1886137",
@@ -31511,8 +31511,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-05",
     "notes": "",
-    "outcome_yes_price": 0.225,
-    "outcome_no_price": 0.775
+    "outcome_yes_price": 0.02,
+    "outcome_no_price": 0.98
   },
   {
     "market_id": "1846135",
@@ -31526,8 +31526,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-05",
     "notes": "",
-    "outcome_yes_price": 0.225,
-    "outcome_no_price": 0.775
+    "outcome_yes_price": 0.02,
+    "outcome_no_price": 0.98
   },
   {
     "market_id": "1846147",
@@ -31541,8 +31541,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-05",
     "notes": "",
-    "outcome_yes_price": 0.225,
-    "outcome_no_price": 0.775
+    "outcome_yes_price": 0.02,
+    "outcome_no_price": 0.98
   },
   {
     "market_id": "1846146",
@@ -31556,8 +31556,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-05",
     "notes": "",
-    "outcome_yes_price": 0.225,
-    "outcome_no_price": 0.775
+    "outcome_yes_price": 0.02,
+    "outcome_no_price": 0.98
   },
   {
     "market_id": "1846127",
@@ -31571,8 +31571,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-05",
     "notes": "",
-    "outcome_yes_price": 0.225,
-    "outcome_no_price": 0.775
+    "outcome_yes_price": 0.02,
+    "outcome_no_price": 0.98
   },
   {
     "market_id": "1846133",
@@ -31586,8 +31586,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-05",
     "notes": "",
-    "outcome_yes_price": 0.225,
-    "outcome_no_price": 0.775
+    "outcome_yes_price": 0.02,
+    "outcome_no_price": 0.98
   },
   {
     "market_id": "1846141",
@@ -31601,8 +31601,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-05",
     "notes": "",
-    "outcome_yes_price": 0.225,
-    "outcome_no_price": 0.775
+    "outcome_yes_price": 0.02,
+    "outcome_no_price": 0.98
   },
   {
     "market_id": "1846137",
@@ -31616,8 +31616,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-05",
     "notes": "",
-    "outcome_yes_price": 0.225,
-    "outcome_no_price": 0.775
+    "outcome_yes_price": 0.02,
+    "outcome_no_price": 0.98
   },
   {
     "market_id": "1846131",
@@ -31631,8 +31631,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-05",
     "notes": "",
-    "outcome_yes_price": 0.225,
-    "outcome_no_price": 0.775
+    "outcome_yes_price": 0.02,
+    "outcome_no_price": 0.98
   },
   {
     "market_id": "1846129",
@@ -31646,8 +31646,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-05",
     "notes": "",
-    "outcome_yes_price": 0.225,
-    "outcome_no_price": 0.775
+    "outcome_yes_price": 0.02,
+    "outcome_no_price": 0.98
   },
   {
     "market_id": "1846143",
@@ -31661,8 +31661,8 @@
     "end_date": "2026-04-10T16:00:00Z",
     "added_date": "2026-04-05",
     "notes": "",
-    "outcome_yes_price": 0.225,
-    "outcome_no_price": 0.775
+    "outcome_yes_price": 0.02,
+    "outcome_no_price": 0.98
   },
   {
     "market_id": "1762405",
@@ -31676,8 +31676,8 @@
     "end_date": "2026-04-04T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1762403",
@@ -31691,8 +31691,8 @@
     "end_date": "2026-04-04T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1762404",
@@ -31706,8 +31706,8 @@
     "end_date": "2026-04-04T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1762397",
@@ -31721,8 +31721,8 @@
     "end_date": "2026-04-04T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1762399",
@@ -31736,8 +31736,8 @@
     "end_date": "2026-04-04T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1762398",
@@ -31751,8 +31751,8 @@
     "end_date": "2026-04-04T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1762396",
@@ -31766,8 +31766,8 @@
     "end_date": "2026-04-04T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1762402",
@@ -31781,8 +31781,8 @@
     "end_date": "2026-04-04T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1762394",
@@ -31796,8 +31796,8 @@
     "end_date": "2026-04-04T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1762401",
@@ -31811,8 +31811,8 @@
     "end_date": "2026-04-04T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1762395",
@@ -31826,8 +31826,8 @@
     "end_date": "2026-04-04T16:00:00Z",
     "added_date": "2026-04-04",
     "notes": "",
-    "outcome_yes_price": 0.9995,
-    "outcome_no_price": 0.0005
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1777679",
@@ -32831,8 +32831,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1808080",
@@ -32846,8 +32846,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1808072",
@@ -32861,8 +32861,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1808074",
@@ -32876,8 +32876,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1808086",
@@ -32891,8 +32891,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1808076",
@@ -32906,8 +32906,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1808073",
@@ -32921,8 +32921,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1808088",
@@ -32936,8 +32936,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1808082",
@@ -32951,8 +32951,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1808090",
@@ -32966,8 +32966,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1808084",
@@ -32981,8 +32981,8 @@
     "end_date": "2026-04-07T16:00:00Z",
     "added_date": "2026-04-07",
     "notes": "",
-    "outcome_yes_price": 0.0005,
-    "outcome_no_price": 0.9995
+    "outcome_yes_price": 0.9995,
+    "outcome_no_price": 0.0005
   },
   {
     "market_id": "1817455",
@@ -33161,8 +33161,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0015,
-    "outcome_no_price": 0.9985
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1831498",
@@ -33176,8 +33176,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0015,
-    "outcome_no_price": 0.9985
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1831496",
@@ -33191,8 +33191,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0015,
-    "outcome_no_price": 0.9985
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1831492",
@@ -33206,8 +33206,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0015,
-    "outcome_no_price": 0.9985
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1831489",
@@ -33221,8 +33221,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0015,
-    "outcome_no_price": 0.9985
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1831504",
@@ -33236,8 +33236,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0015,
-    "outcome_no_price": 0.9985
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1831487",
@@ -33251,8 +33251,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0015,
-    "outcome_no_price": 0.9985
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1831488",
@@ -33266,8 +33266,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0015,
-    "outcome_no_price": 0.9985
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1831502",
@@ -33281,8 +33281,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0015,
-    "outcome_no_price": 0.9985
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1831500",
@@ -33296,8 +33296,8 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0015,
-    "outcome_no_price": 0.9985
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   },
   {
     "market_id": "1831490",
@@ -33311,7 +33311,7 @@
     "end_date": "2026-04-09T16:00:00Z",
     "added_date": "2026-04-08",
     "notes": "",
-    "outcome_yes_price": 0.0015,
-    "outcome_no_price": 0.9985
+    "outcome_yes_price": 0.0005,
+    "outcome_no_price": 0.9995
   }
 ]
